@@ -1,0 +1,416 @@
+{
+  "node_index_counter": 43,
+  "nodes": [
+    {
+      "index": "SOTO CAK HAR",
+      "x": 1133,
+      "y": 332
+    },
+    {
+      "index": "KAMPUS UNAIR C",
+      "x": 962,
+      "y": 618
+    },
+    {
+      "index": "KAMPUS UNAIR C",
+      "x": 980,
+      "y": 151
+    },
+    {
+      "index": 5,
+      "x": 950,
+      "y": 349
+    },
+    {
+      "index": 8,
+      "x": 943,
+      "y": 519
+    },
+    {
+      "index": 11,
+      "x": 1125,
+      "y": 418
+    },
+    {
+      "index": 14,
+      "x": 1072,
+      "y": 529
+    },
+    {
+      "index": 16,
+      "x": 610,
+      "y": 481
+    },
+    {
+      "index": 17,
+      "x": 782,
+      "y": 352
+    },
+    {
+      "index": 18,
+      "x": 591,
+      "y": 334
+    },
+    {
+      "index": 30,
+      "x": 1278,
+      "y": 243
+    }
+  ],
+  "lines": [
+    {
+      "type": "straight",
+      "points": [
+        1133,
+        332,
+        1061,
+        339
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1061,
+        339,
+        987,
+        351
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        987,
+        351,
+        950,
+        349
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        950,
+        349,
+        949,
+        412
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        949,
+        412,
+        948,
+        468
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        948,
+        468,
+        943,
+        519
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        943,
+        519,
+        949,
+        568
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        949,
+        568,
+        962,
+        618
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1133,
+        332,
+        1130,
+        374
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1130,
+        374,
+        1125,
+        418
+      ]
+    },
+    {
+      "type": "curve",
+      "points": [
+        1125,
+        418,
+        1097,
+        434,
+        1083,
+        471
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1083,
+        471,
+        1072,
+        529
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1072,
+        529,
+        1009,
+        520
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1009,
+        520,
+        943,
+        519
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        950,
+        349,
+        870,
+        352
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        870,
+        352,
+        782,
+        352
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        782,
+        352,
+        687,
+        343
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        687,
+        343,
+        591,
+        334
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        591,
+        334,
+        590,
+        412
+      ]
+    },
+    {
+      "type": "curve",
+      "points": [
+        590,
+        412,
+        597,
+        429,
+        605,
+        449,
+        610,
+        481
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        610,
+        481,
+        662,
+        492
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        662,
+        492,
+        727,
+        520
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        727,
+        520,
+        790,
+        516
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        790,
+        516,
+        838,
+        523
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        838,
+        523,
+        887,
+        521
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        887,
+        521,
+        943,
+        519
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1133,
+        332,
+        1128,
+        280
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1128,
+        280,
+        1278,
+        243
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1278,
+        243,
+        1261,
+        190
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1261,
+        190,
+        1116,
+        146
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1116,
+        146,
+        1117,
+        177
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        1117,
+        177,
+        991,
+        164
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        991,
+        164,
+        980,
+        151
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        980,
+        151,
+        969,
+        196
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        969,
+        196,
+        965,
+        251
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        965,
+        251,
+        952,
+        293
+      ]
+    },
+    {
+      "type": "straight",
+      "points": [
+        952,
+        293,
+        950,
+        349
+      ]
+    },
+    {
+      "type": "curve",
+      "points": [
+        226,
+        560,
+        236,
+        540,
+        249,
+        517,
+        269,
+        512,
+        295,
+        512
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "node_index_counter": 3,
+  "nodes": [
+    {
+      "index":  "KAMPUS ITS",
+      "x": 1133,
+      "y": 332,
+      "next_index": null
+    },
+    {
+      "index": "KAMPUS UNAIR C",
+      "x": 962,
+      "y": 618,
+      "next_index": null
+    },
+    {
+      "index": "SOTO CAK HAR",
+      "x": 980,
+      "y": 151,
+      "next_index": null
+    }
+  ],
+  "lines": []
+}
